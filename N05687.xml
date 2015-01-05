@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="conference_proceedings">
-            <pb facs="tcp:007216_0000_102B3E805C03A180"/>
-            <pb facs="tcp:007216_0001_102B3E82D5428CF8"/>
+            <pb facs="unknown:007216_0000_102B3E805C03A180"/>
+            <pb facs="unknown:007216_0001_102B3E82D5428CF8"/>
             <head>THE CONFERENCE With the Eaſtern Indians, at the Ratifica<g ref="char:EOLhyphen"/>tion of the PEACE, held at <hi>Falmouth</hi> in <hi>Caſco-Bay,</hi> in <hi>July</hi> and <hi>Auguſt,</hi> 1726.</head>
             <div type="days_proceedings">
                <head>
@@ -142,7 +142,7 @@
                   </body>
                </floatingText>
                <p>
-                  <pb n="2" facs="tcp:007216_0002_102B3E85236EB590"/>
+                  <pb n="2" facs="unknown:007216_0002_102B3E85236EB590"/>
 Which being Communicated to His Majeſty's Council, they were of Advice, that the following Letter ſhould be wrote in Anſwer thereto, <hi>viz.</hi>
                </p>
                <floatingText type="letter" xml:lang="eng">
@@ -243,7 +243,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                <p>On the 29th, <hi>Wenemouett,</hi> the Chief Sachem, with a Number of his Principal Men, and others, arriv'd in Capt. <hi>Sanders</hi> Sloop, and on the 30th the Conference for the Ratification of the Treaty was Entred upon, and Concluded the Sixth of <hi>Auguſt,</hi> as appears by the following Pages.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="3" facs="tcp:007216_0003_102B3E87BAEEBF08"/>
+               <pb n="3" facs="unknown:007216_0003_102B3E87BAEEBF08"/>
                <head>Anno Regni Regis <hi>GEORGII</hi> Magnae Britanniae &amp;c. Duodecimo et Decimo Tertio.</head>
                <div type="morning_proceedings">
                   <p>AT a CONFERENCE Begun and Held at <hi>Falmouth</hi> in <hi>Caſco Bay, July</hi> 10th <hi>Annoque Domini,</hi> 1726. for the Ratihcation of the late Treaty of Peace, had with the <hi>Eaſtern Indians</hi> at <hi>Boſton,</hi> By and Between His Honour WILLIAM DUMMER, <abbr>Eſq</abbr>; Lieut. Governour and Com<g ref="char:EOLhyphen"/>mander in Chief, in and over His Majeſty's Province of the <hi>Maſſachuſetts<g ref="char:EOLhyphen"/>Bay</hi> in <hi>New England,</hi> The Honourable <hi>William Tailer,</hi> 
@@ -277,7 +277,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                      <p>We come to wait on the Governour to know when it will be his Pleaſure that we ſhould ſee him again, in order for the Treaty. The Buſineſs requires haſte, and the Governour has been here a long Time waiting; we want to have the Buſineſs over, that ſo we might go Home again: All the In<g ref="char:EOLhyphen"/>dians that are expected at the Ratification are now arrived.</p>
                   </sp>
                   <sp>
-                     <pb n="4" facs="tcp:007216_0004_102B3E89BB96EDB8"/>
+                     <pb n="4" facs="unknown:007216_0004_102B3E89BB96EDB8"/>
                      <speaker>Lt. Gov.</speaker>
                      <p>We will be ready at Three a Clock for the Treaty, in Caſe you are ready, and it will ſuit you.</p>
                   </sp>
@@ -343,7 +343,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                            </gap>n, Speaker.</hi>
                      </speaker>
                      <p>The Lieut. Governour has mentioned the ſame Thing that we are come for, The Treaty we had the laſt Winter ſo far as it was then finiſhed, There are none but the <hi>Penobſcut-Tribe</hi> here at preſent, Others,
-<pb n="5" facs="tcp:007216_0005_102B3E8D87479238"/>that we expected are not here at this Place, which is the Place the Govern<g ref="char:EOLhyphen"/>ment expected we ſhould meet at, We ſent Meſſengers to the other Tribes, and acquainted them of the Time the Governour appointed to meet, but that being ſo ſoon, they are not yet come, we ſent to the <hi>Canada Tribes</hi> to come over to the Treaty according to the Time appointed by the Governour, but they have not come, they have ſent a Letter, and two Wampum Belts, one to the <hi>Governour,</hi> and one to the <hi>Penobscut-Tribe.</hi>
+<pb n="5" facs="unknown:007216_0005_102B3E8D87479238"/>that we expected are not here at this Place, which is the Place the Govern<g ref="char:EOLhyphen"/>ment expected we ſhould meet at, We ſent Meſſengers to the other Tribes, and acquainted them of the Time the Governour appointed to meet, but that being ſo ſoon, they are not yet come, we ſent to the <hi>Canada Tribes</hi> to come over to the Treaty according to the Time appointed by the Governour, but they have not come, they have ſent a Letter, and two Wampum Belts, one to the <hi>Governour,</hi> and one to the <hi>Penobscut-Tribe.</hi>
                      </p>
                   </sp>
                   <sp>
@@ -390,7 +390,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                   <sp>
                      <speaker>Loron.</speaker>
                      <p>We tho't when we ſent the Letter and Belt from the <hi>Canada</hi> In<g ref="char:EOLhyphen"/>dians, that we ſhould receive an Anſwer to it for Our further Proceeding, but inſtead of that we received the Governour's Direction to meet him here for the Ratification of the Treaty. As to the firſt Motions of Peace when we heard of it from the Governour, we were very glad of it, and were ready to join in the Peace, and made Propoſals in order to effect it, and particularly about the Lands, and the <hi>Engliſh</hi> quitting the two Houſes, viz. <hi>Richmond</hi> and <hi>St. George</hi>'s, which the Government did not ſee cauſe to come into; If they had, we with the other Indians ſhould all have come into a Peace before now, and there would be no Difficulty with the others; not that the Houſes ſhould be removed at a great Diſtance, but that the Houſe at <hi>St. George</hi>'s ſhould be removed to <hi>Pemmaquid,</hi> and that at <hi>Richmond</hi> to <hi>Arrowſick,</hi> for the Trading<g ref="char:EOLhyphen"/>Houſes. As for the <hi>Penchſcutt-Tribe</hi> they are ſo careful that they will do every Thing that is juſt, That there ſhall be no Breach or Miſunderſtanding for the future, but that the Tribes round about us might approve of every thing
-<pb n="6" facs="tcp:007216_0006_102B3E8B49B42D38"/>we do, it was further mentioned in the Treaty, that if any of the Tribes ſhould riſe or break up what was therein Agreed on, or lift up the Hatchet, we ſhall all join in ſuppreſſing them, and ſo we now Agree. We have nothing further to offer now.</p>
+<pb n="6" facs="unknown:007216_0006_102B3E8B49B42D38"/>we do, it was further mentioned in the Treaty, that if any of the Tribes ſhould riſe or break up what was therein Agreed on, or lift up the Hatchet, we ſhall all join in ſuppreſſing them, and ſo we now Agree. We have nothing further to offer now.</p>
                   </sp>
                   <sp>
                      <speaker>Lt. Gov.</speaker>
@@ -424,7 +424,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                   <p>GENTLEMEN,</p>
                   <p>Before we proceed, it is neceſſary that you give us a true and full Account why the <hi>Narridgwock Indians</hi> are not here, as you have engaged for them in the Treaty made at <hi>Boſton,</hi> which now lies on the Table: We have conſidered of what you ſaid to us, at our meeting on Saturday laſt, and as to the Propoſals of the <hi>Norridgwock</hi> and other Tribes, that the Treaty be held at <hi>Mount-Royal,</hi> we ſay, that it's contrary to the Articles of Peace made at <hi>Boſton,</hi> and therefore deſerves no Anſwer, and you know that we al<g ref="char:EOLhyphen"/>ways told you, that it was beneath the Honour of the <hi>Engliſh Government</hi> to Treat with the <hi>Indians</hi> in a <hi>French Country;</hi> and as to the Inſinuations of the <hi>Canada Indians,</hi> that our Commiſſioners begun a Treaty there, it is not true, for our Commiſſioners were ſent there to Demand of the <hi>French Governour</hi> in the Name of <hi>King GEORGE</hi> not to aſſiſt the <hi>Indians</hi> in the War againſt us, and alſo to Reſtore all the <hi>Engliſh Captives</hi> in that Government, which they declared to the Governour of <hi>Canada</hi> as ſoon as they Ar<g ref="char:EOLhyphen"/>rived, and that they had no other Buſineſs in that Country.</p>
                   <p>As to the Two Houſes you except againſt, you may Remember you were told at <hi>Boſton,</hi> that <hi>King GEORGE</hi> had a Right to build Houſes where he pleaſed within his Dominions, and we have not built any Houſes on Lands in the <hi>Eaſtern Parts</hi> but what we have
-<pb n="7" facs="tcp:007216_0007_102B3E8F3A38A5D8"/>Purchaſed, and are ready to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="7" facs="unknown:007216_0007_102B3E8F3A38A5D8"/>Purchaſed, and are ready to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> the Title, and that the Houſes mentioned were not kept for Offence after the <hi>Ratification,</hi> but as they were <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -491,7 +491,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                <sp>
                   <speaker>Loron.</speaker>
                   <p>We will now give our Anſwer to what was ſaid Yeſterday. And firſt give the Reaſon why the <hi>Narridgwock</hi> Tribe is not here; we ſhall be very plain, and tell the Truth and nothing but the Truth why they are not here. We ſent a Meſſenger over to the <hi>Narridgwocks, St. Francois,</hi> and <hi>Wowenocks,</hi> for them to come over here to the Treaty, to hear what was ſaid: when the Meſſen<g ref="char:EOLhyphen"/>gers were got to thoſe Tribes they diſcourſed 'em, and deliver'd their Meſſage to come over here, but the <hi>St. Francois, Wowenocks,</hi> and the <hi>Narridgwocks,</hi> made Anſwer, that they would have the <hi>Penobſcutt</hi> Chiefs with theſe Governments come over there to hear the Treaty, There were Six of the <hi>Narridgwock</hi> Indians came over to <hi>Penobſcutt</hi> this Spring, they miſſed of the Meſſengers that were ſent from <hi>Penobſcutt</hi> to <hi>Narridgwock;</hi> then Two went back and Four ſtaid till the <hi>Penobſcutt</hi> Meſſengers return'd with an Anſwer from the <hi>St. Francois,</hi> &amp;c.
-<pb n="8" facs="tcp:007216_0008_102B3E91104B8A10"/>with the Two Belts; the Four <hi>Narridgwock</hi> Indians that tarried behind would come here and have been preſent at the Ratification, but the Belts being ſent occaſioned their not coming. When the Belts came to <hi>Penobſcutt,</hi> we had Ad<g ref="char:EOLhyphen"/>vice then from the Governour of the <hi>Maſſachuſetts</hi> of his coming down to the Ratification, and the Four <hi>Narridgwock</hi> Indians told the <hi>Penobſcutts,</hi> to go on, and what ever they did was all one as if they were Preſent, &amp; the <hi>Narriagwocks</hi> after that went to <hi>Canada.</hi>
+<pb n="8" facs="unknown:007216_0008_102B3E91104B8A10"/>with the Two Belts; the Four <hi>Narridgwock</hi> Indians that tarried behind would come here and have been preſent at the Ratification, but the Belts being ſent occaſioned their not coming. When the Belts came to <hi>Penobſcutt,</hi> we had Ad<g ref="char:EOLhyphen"/>vice then from the Governour of the <hi>Maſſachuſetts</hi> of his coming down to the Ratification, and the Four <hi>Narridgwock</hi> Indians told the <hi>Penobſcutts,</hi> to go on, and what ever they did was all one as if they were Preſent, &amp; the <hi>Narriagwocks</hi> after that went to <hi>Canada.</hi>
                   </p>
                </sp>
                <sp>
@@ -523,7 +523,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                   <sp>
                      <speaker>Lt. Gov. of the Maſſachuſetts.</speaker>
                      <p>WE have Conſidered your Motion, That we would re<g ref="char:EOLhyphen"/>move thoſe two Houſes on <hi>Kennebeck</hi> and <hi>St. George's<g ref="char:EOLhyphen"/>Rivers</hi> a little further in: To which we Anſwer, That thoſe Houſes are on Lands Purchaſed by His Majeſty's Subjects, which we are ready by Commiſſioners appointed by the Government of the <hi>Maſſachuſetts-Bay</hi> for that Affair, to make evident to you, (altho' the <hi>Narridgwocks</hi> are not Preſent) by producing fair Deeds under the Hands of the <hi>Sachems</hi> of thoſe Countrys for the ſame, as well as di<g ref="char:EOLhyphen"/>vers Treaties where you Allow'd and Confirm'd to the <hi>Engliſh</hi> all the Lands formerly poſſeſſed by them, which Commiſſioners are here preſent for that Ser<g ref="char:EOLhyphen"/>vice, thoſe Lands being for a long Time ſince purchaſed by His Majeſty's
-<pb n="9" facs="tcp:007216_0009_102B3E931922C8B0"/>Subjects, and the Property veſted in them, the Government cannot Diſclaim them; And now as you have aſſured us, that you very well know all the Articles of the Peace which was made at <hi>Boſton,</hi> and that you are ready to come hither to Ratify them, ſo we are alſo ready to receive the ſaid Ratification, and now expect that it ſhall be done accordingly. We have no more to ſay, but to demand of you what <hi>Engliſh</hi> Captives you have ready to Exchange, Purſuant to an Article of the Treaty on that behalf. We have ſaid what we have to ſay now, and will take a Walk out for a little Time if you deſire it, and give you an Opportunity of adviſing one with another here.</p>
+<pb n="9" facs="unknown:007216_0009_102B3E931922C8B0"/>Subjects, and the Property veſted in them, the Government cannot Diſclaim them; And now as you have aſſured us, that you very well know all the Articles of the Peace which was made at <hi>Boſton,</hi> and that you are ready to come hither to Ratify them, ſo we are alſo ready to receive the ſaid Ratification, and now expect that it ſhall be done accordingly. We have no more to ſay, but to demand of you what <hi>Engliſh</hi> Captives you have ready to Exchange, Purſuant to an Article of the Treaty on that behalf. We have ſaid what we have to ſay now, and will take a Walk out for a little Time if you deſire it, and give you an Opportunity of adviſing one with another here.</p>
                   </sp>
                   <sp>
                      <speaker>Indians.</speaker>
@@ -539,7 +539,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                         </gap> Trifle. We have nothing further to offer now.</p>
                   </sp>
                   <sp>
-                     <pb n="10" facs="tcp:007216_0010_102B3E97C13EFC28"/>
+                     <pb n="10" facs="unknown:007216_0010_102B3E97C13EFC28"/>
                      <speaker>Lt. Gov.</speaker>
                      <p>What do you mean by having the <hi>Narridgwocks</hi> ſent for, and that hey would be here if they were ſent for, are they within Call do you know?</p>
                   </sp>
@@ -642,7 +642,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                <sp>
                   <speaker>Loron.</speaker>
                   <p>We have been tho'tful of what has been ſaid to us this Morning re<g ref="char:EOLhyphen"/>ſpecting h Lands, as well as what the Governour has ſpoken to us at this Time concerning the Articles. We ſuppoſe you can't bring to paſs what we have been propoſing concerning giving Way; We reckon the Governour was the firſt mover in bringing forward the Peace, and having a good Settlement among
-<pb n="11" facs="tcp:007216_0011_102B3E997825C780"/>us, now we think we ſhall go beyond, <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="11" facs="unknown:007216_0011_102B3E997825C780"/>us, now we think we ſhall go beyond, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> than ordinary to effect a good Underſtanding; As to the Houſe at <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -782,7 +782,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                   <speaker>Lt. <hi>Gov.</hi>
                   </speaker>
                   <p>Some Gentlemen have been in doubt, whether you have rightly underſtood me, in what has been now ſaid to you. That is, if there ſhould be any Diſpute or Controverſy hereaſter, between the <hi>Engliſh</hi> and you, reſpecting the Titles or Claims of Lands, and after a fair and lawful Tryal, if the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> cannot make out and prove their Titles to the Lands controverted, they
-<pb n="12" facs="tcp:007216_0012_102B3E9B70155768"/>ſhall diſclaim them, but if the <hi>Engliſh</hi> can make out their Titles, then the <hi>In<g ref="char:EOLhyphen"/>
+<pb n="12" facs="unknown:007216_0012_102B3E9B70155768"/>ſhall diſclaim them, but if the <hi>Engliſh</hi> can make out their Titles, then the <hi>In<g ref="char:EOLhyphen"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>
@@ -849,7 +849,7 @@ Which being Communicated to His Majeſty's Council, they were of Advice, that th
                   </speaker>
                   <p>You ſhall have a Copy of it as ſoon as it can be prepared.</p>
                   <p>
-                     <pb n="13" facs="tcp:007216_0013_102B3E9F41B56890"/>
+                     <pb n="13" facs="unknown:007216_0013_102B3E9F41B56890"/>
 The Ratification of the Treaty which is endorſed on the Original Articles, was read over diſtinctly, and Interpreted to the Indians in the Words following, <hi>
                         <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -894,7 +894,7 @@ The Ratification of the Treaty which is endorſed on the Original Articles, was 
                   <p>I Am now come to Ratify and Confirm the Inſtrument which I gave to you at the Signing the Articles of Peace: I have already endorſed the Ratification on that I keep by me, and if you will give me Your's, the Secretary will endorſe the ſame thereon; which was accordingly done, and is in the Words following, <hi>Viz.</hi>
                   </p>
                   <q>
-                     <pb n="14" facs="tcp:007216_0014_102B3EA15D628988"/>
+                     <pb n="14" facs="unknown:007216_0014_102B3EA15D628988"/>
                      <floatingText xml:lang="eng">
                         <body>
                            <div type="ratification">
@@ -956,7 +956,7 @@ The Ratification of the Treaty which is endorſed on the Original Articles, was 
                   </p>
                   <p>Then his Honour ordered the Preſents to be delivered. And proceeded,</p>
                   <p>
-                     <pb n="15" facs="tcp:007216_0015_102B3EA3B98305C0"/>
+                     <pb n="15" facs="unknown:007216_0015_102B3EA3B98305C0"/>
 There were two of your Young Men ſent to <hi>Canada</hi> laſt Year, in the Service of this Province; I would ſee them, that I might make them a Conſideration for their Trouble and loſſ of Time in performing the Meſſage. Upon which only one of them, viz. <hi>Loron</hi>'s Son appeared, the other the Sachem ſaid, was leſt at <hi>P<gap reason="illegible" resp="#PDCC" extent="7 letters">
                            <desc>〈7 letters〉</desc>
                         </gap>,</hi> the Lieut. Governour taking two fine Firelocks in his Hand, preſented one to him that was preſent, the other His Honour delivered to the Chief Sachem <hi>Wenemouett,</hi> deſiring of him that it might be given to the other Young Man.</p>
@@ -1008,7 +1008,7 @@ There were two of your Young Men ſent to <hi>Canada</hi> laſt Year, in the Ser
                            </gap> Our Perſons or Eſtates, and a Friendly Communication kept up and per<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>tuated
-<pb n="16" facs="tcp:007216_0016_102B3EA5B396C598"/>among us: But inaſmuch as the</hi> Narridgweeks <hi>and other Tribes, did not P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="16" facs="unknown:007216_0016_102B3EA5B396C598"/>among us: But inaſmuch as the</hi> Narridgweeks <hi>and other Tribes, did not P<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>
                            <g ref="char:EOLhyphen"/>ſonally appear at the late Solemn and Publick Ratification, We juſtly fear that the In<g ref="char:EOLhyphen"/>habitants on the Frontiers will be in a great Meaſure retarded, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1060,7 +1060,7 @@ There were two of your Young Men ſent to <hi>Canada</hi> laſt Year, in the Ser
                      <p>We will now make our Anſwer to the Tribes at <hi>Arreſeguntecook,</hi> and our Anſwer unto them is as follows, <hi>Viz.</hi>
                      </p>
                      <p>We ſay Brothers, we are not able to make you an Anſwer to your <hi>Belt,</hi> wherein you ſent for us, becauſe the time is paſt for our <hi>Ratification</hi> of the Articles of the Treaty.
-<pb n="17" facs="tcp:007216_0017_102B3EA7B49B1A20"/>We ſay Brothers, We wonder you ſhould deſire us to come over into that Country to Treat, which is a Place where we have no being. This Country is the Place where we belong to, and where the Treaty was begun, and where we think it ought to have been carried on. <hi>This is what we have to ſay in Anſwer to the Belt.</hi>
+<pb n="17" facs="unknown:007216_0017_102B3EA7B49B1A20"/>We ſay Brothers, We wonder you ſhould deſire us to come over into that Country to Treat, which is a Place where we have no being. This Country is the Place where we belong to, and where the Treaty was begun, and where we think it ought to have been carried on. <hi>This is what we have to ſay in Anſwer to the Belt.</hi>
                      </p>
                   </sp>
                   <sp>
@@ -1110,7 +1110,7 @@ There were two of your Young Men ſent to <hi>Canada</hi> laſt Year, in the Ser
                               <desc>•</desc>
                            </gap>
                         </hi> is Weakly and Sickly, and if he ſhould be removed by Death, we deſire that ſome Body might be ſent down to <hi>St. George's,</hi> to take care of the Trade; we think Capt. <hi>Smith</hi> a proper Perſon, not but that we think Capt. <hi>Gyles</hi> behaves
-<pb n="18" facs="tcp:007216_0018_102B3EAA01812D78"/>very well in the Place: This we mention Sides-Ways as it were. We have not heard any Anſwer to our Letter about ſome Frenchmen killing ſome of our People a great Way up in the Country: We mention this becauſe the Governour told us if any Miſchiefs or Injuries ſhould happen, we ſhould ac<g ref="char:EOLhyphen"/>quaint one another of it in order for Redreſs: We heard the Frenchmen were in Priſon at <hi>Annapolis.</hi>
+<pb n="18" facs="unknown:007216_0018_102B3EAA01812D78"/>very well in the Place: This we mention Sides-Ways as it were. We have not heard any Anſwer to our Letter about ſome Frenchmen killing ſome of our People a great Way up in the Country: We mention this becauſe the Governour told us if any Miſchiefs or Injuries ſhould happen, we ſhould ac<g ref="char:EOLhyphen"/>quaint one another of it in order for Redreſs: We heard the Frenchmen were in Priſon at <hi>Annapolis.</hi>
                      </p>
                      <p>The Lieut. Governour acquainted them, that he had received their Letter, and ſent an Anſwer to it, and then recited the Contents of the Letter, and alſo his Anſwer to it, both of which were afterwards produced and ſhewn to the Indians; and then acquainted the Indians, that he had endeavoured by Examination, and other Means, to make out ſome Proof againſt the French<g ref="char:EOLhyphen"/>man mentioned in the Letter, and now under Confinement; but could find none, yet he kept the ſaid Frenchman a Priſoner at the Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1162,7 +1162,7 @@ There were two of your Young Men ſent to <hi>Canada</hi> laſt Year, in the Ser
                      <speaker>Lt. <hi>Gov.</hi>
                      </speaker>
                      <p>As to what you ſay, that you ſhall tell the French <hi>Indians</hi> you have not got any of the Captives, I have not told you that I would not deliver up
-<pb n="19" facs="tcp:007216_0019_102B3EAC50DD1F98"/>the Captives, I deſign you ſhall have them all, I mean all ſuch as are in the Hands of the Government.</p>
+<pb n="19" facs="unknown:007216_0019_102B3EAC50DD1F98"/>the Captives, I deſign you ſhall have them all, I mean all ſuch as are in the Hands of the Government.</p>
                   </sp>
                   <sp>
                      <speaker>Loron.</speaker>
@@ -1194,7 +1194,7 @@ There were two of your Young Men ſent to <hi>Canada</hi> laſt Year, in the Ser
                <p>Whereupon the Lieut. GOVERNOUR aſked them, if they under<g ref="char:EOLhyphen"/>ſtood it, and whether it was rightly taken down?</p>
                <p>The <hi>Indians</hi> Anſwered, that the Conference was rightly taken down, and not a Word miſſing in it.</p>
                <p>
-                  <pb n="20" facs="tcp:007216_0020_102B3EAE0569A2A8"/>
+                  <pb n="20" facs="unknown:007216_0020_102B3EAE0569A2A8"/>
 Which being done, His Honour the Lieut. Governour to prevent Inſinuations of any ill-minded Perſons, and for the more full Satisfaction of the Tribe of <hi>Indians</hi> now Aſſembled, Subſcribed his Name,</p>
                <p>
                   <hi>Wm. DUMMER.</hi>
@@ -1216,7 +1216,7 @@ Which being done, His Honour the Lieut. Governour to prevent Inſinuations of an
             </div>
          </div>
          <div type="conference_proceedings">
-            <pb facs="tcp:007216_0021_102B3EB08AA0F280"/>
+            <pb facs="unknown:007216_0021_102B3EB08AA0F280"/>
             <head>THE CONFERENCE With the Eaſtern Indians, at the further Ratification of the PEACE, held at <hi>Fal<g ref="char:EOLhyphen"/>mouth</hi> in <hi>Caſco-Bay,</hi> in <hi>July,</hi> 1727.</head>
             <div type="days_proceedings">
                <head>
@@ -1255,7 +1255,7 @@ Which being done, His Honour the Lieut. Governour to prevent Inſinuations of an
                </floatingText>
                <floatingText type="letter" xml:lang="eng">
                   <body>
-                     <pb n="2" facs="tcp:007216_0022_102B3EB31C137C18"/>
+                     <pb n="2" facs="unknown:007216_0022_102B3EB31C137C18"/>
                      <head>Capt. <hi>Heath's</hi> Letter.</head>
                      <opener>
                         <dateline>
@@ -1282,7 +1282,7 @@ Which being done, His Honour the Lieut. Governour to prevent Inſinuations of an
                   </body>
                </floatingText>
                <p>
-                  <pb n="3" facs="tcp:007216_0023_102B3EB4A5D23488"/>
+                  <pb n="3" facs="unknown:007216_0023_102B3EB4A5D23488"/>
 Which Letters being Communicated to His Majeſty's Council, they were of Advice that the following Letter ſhould be wrote in Anſwer thereto, <hi>Viz.</hi>
                </p>
                <floatingText type="letter" xml:lang="eng">
@@ -1315,7 +1315,7 @@ Which Letters being Communicated to His Majeſty's Council, they were of Advice 
             </div>
          </div>
          <div type="conference_proceedings">
-            <pb n="4" facs="tcp:007216_0024_102B3EB794E8EF90"/>
+            <pb n="4" facs="unknown:007216_0024_102B3EB794E8EF90"/>
             <head>
                <hi>Anno Regni Regis</hi> GEORGII <hi>Magnae Britanniae</hi> &amp;<hi>c. Decimo Tertio.</hi>
             </head>
@@ -1349,7 +1349,7 @@ Which Letters being Communicated to His Majeſty's Council, they were of Advice 
                         </gap>ſeck, Shwaſſeen, Prauſſoway, Suzack</hi> Son of <hi>Beawand<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>,</hi> Chiefs and others of the ſaid Tribe of <hi>Arreſaguntacook,</hi> NEMMADGEEN and WOOSS<g ref="char:EOLhyphen"/>ZAURRABOONETT Captains and Counceliois, two of the Chiefs of the <hi>Wowenock</hi> Tribe, and delegated by them, accompanied by AU<g ref="char:EOLhyphen"/>WEMMONETT the chief Sachem's Son, <hi>Wenerramett, Paterramett, Saawerramett, Quinoiſe,</hi> Chiefs and others of the ſaid Tribe of <hi>Wowenock,</hi> WENONGONETT alias WENEMOWETT, Chief Sachem of the <hi>Penobſcot</hi> Tribe, ESPEGUHEAT ſecond Chief of the ſaid Tribe, the
-<pb n="5" facs="tcp:007216_0025_102B3EB9A8A31380"/>four Indian Delegates, viz. <hi>Sauguaa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="5" facs="unknown:007216_0025_102B3EB9A8A31380"/>four Indian Delegates, viz. <hi>Sauguaa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>um</hi> alias <hi>Loron, Arexis, Francois Xavier, Megan<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1462,7 +1462,7 @@ Which Letters being Communicated to His Majeſty's Council, they were of Advice 
                   <p>PRESENT Lieut. Governour DUMMER, with His Majeſty's Council of the <hi>Maſſachu<g ref="char:EOLhyphen"/>ſetts-Bay,</hi>
                   </p>
                   <p>
-                     <pb n="6" facs="tcp:007216_0026_102B3EBB34BCFA00"/>
+                     <pb n="6" facs="unknown:007216_0026_102B3EBB34BCFA00"/>
 Lieut. Governour WENTWORTH, &amp;c. As in the Morning. And The ſeveral Tribes of Indians with AUYAUMMOWETT a Chief of the <hi>Arreſagu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>acoock</hi> Tribe, and others of the ſaid Tribe.</p>
@@ -1571,7 +1571,7 @@ Lieut. Governour WENTWORTH, &amp;c. As in the Morning. And The ſeveral Tribes o
                      <hi>Lt. Gov.</hi> DUMMER.</speaker>
                   <p>
                      <hi>GOOD Friends.</hi> It is very acceptable to me and the Gentlemen of the ſeveral Engliſh Governments new Aſſembled, to ſee ſo
-<pb n="7" facs="tcp:007216_0027_102B3EBD0EF066E0"/>good an Appearance of the reſpective Tribes of <hi>Nerridgwocks, Arreſeguntcooks</hi> and <hi>Wowenocks,</hi> and I make no doubt but you are come with honeſt Hearts &amp; firm Re<g ref="char:EOLhyphen"/>ſolutions Perſonally, &amp; in a publick Manner to Ratify &amp; Confirm the Peace, which the <hi>Penobſcots</hi> not only for themſelves, but as authorized by you, have with ſo much Induſtry and Faithfulneſs made and concluded. Since which the ſeveral Articles thereof have been Communicated to you by the ſaid Tribe, ſo that there now remains nothing but that you Perſonally manifeſt your Conſent by ſetting your Hands and Seals thereto (as the <hi>Penobſcots</hi> have already done) and for that End, the ſaid Articles ſhall be diſtinctly Read over and faithfully Inter<g ref="char:EOLhyphen"/>preted to you.</p>
+<pb n="7" facs="unknown:007216_0027_102B3EBD0EF066E0"/>good an Appearance of the reſpective Tribes of <hi>Nerridgwocks, Arreſeguntcooks</hi> and <hi>Wowenocks,</hi> and I make no doubt but you are come with honeſt Hearts &amp; firm Re<g ref="char:EOLhyphen"/>ſolutions Perſonally, &amp; in a publick Manner to Ratify &amp; Confirm the Peace, which the <hi>Penobſcots</hi> not only for themſelves, but as authorized by you, have with ſo much Induſtry and Faithfulneſs made and concluded. Since which the ſeveral Articles thereof have been Communicated to you by the ſaid Tribe, ſo that there now remains nothing but that you Perſonally manifeſt your Conſent by ſetting your Hands and Seals thereto (as the <hi>Penobſcots</hi> have already done) and for that End, the ſaid Articles ſhall be diſtinctly Read over and faithfully Inter<g ref="char:EOLhyphen"/>preted to you.</p>
                </sp>
                <sp>
                   <speaker>Auyaummowett.</speaker>
@@ -1593,7 +1593,7 @@ Lieut. Governour WENTWORTH, &amp;c. As in the Morning. And The ſeveral Tribes o
                            <p>And We do hereby Promiſe and Engage with the Honourable WILLIAM DUMMER, <abbr>Eſq</abbr>; as he is Lieutenant Governour and Commander in Chief of His Majeſty's Province of the <hi>Maſſachuſetts-Bay,</hi> and with the Governours or Commanders in Chief of the ſaid Province for the Time being, <hi>That is to ſay.</hi>
                            </p>
                            <p>
-                              <pb n="8" facs="tcp:007216_0028_102B3EBEE71F6568"/>
+                              <pb n="8" facs="unknown:007216_0028_102B3EBEE71F6568"/>
 We the ſaid Delegates, for and in Behalf of the ſeveral Tribe aboveſaid, do Promiſe and Engage, that at all Times for Ever, from and after the Date of theſe Preſents, We and They will Ceaſe and Forbear all Acts of Hoſtility, Injuries and Diſcords towards all the Subjects of the Crown of <hi>Great-Britain,</hi> and not offer the leaſt Hurt, Violence or Moleſtation, to them or any of them in their Perſons or Eſtates, But will hence forward hold and maintain a firm and conſtant Amity &amp; Friendſhip with all the Engliſh, and will never Confederate or Combine with any other Nation to their Prejudice.</p>
                            <p>That all the Captives taken in this preſent War, ſhall at or before, the Time of the further Ratificat on of this Treaty, be reſtored without any Ranſom or Payment to be made by them, or any of them.</p>
                            <p>That His Majeſty's Subjects the Engliſh, ſhall and may Peaceably &amp; Quietly enter upon, improve and forever enjoy all and ſingular their Rights of Land and former Settlements, Properties and Poſſeſſions within the Eaſtern Parts of the ſaid Province of the <hi>Maſſachuſetts-Bay,</hi> together with all Iſlands, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1609,7 +1609,7 @@ We the ſaid Delegates, for and in Behalf of the ſeveral Tribe aboveſaid, do P
                            <p>We alſo the ſaid Delegates, in Behalf of the Tribes of Indians, inhabiting within the French Territories, who have aſſiſted us in this War, for whom we are fully Impowred to Act in this preſent Treaty, DO hereby Promiſe and Engage, that they and every of them ſhall henceforth Ceaſe and Forbear all Acts of Hoſtility Force and Violence towards all and every the Subjects of His Majeſty the King of Great Britain.</p>
                            <p>We do further in Behalf of the Tribe of the <hi>Penobſcot</hi> Indians, Promiſe and Engage, that if any of the other Tribes intended to be included in this Treaty, ſhall notwithſtanding refuſe to confirm and Ratifie this preſent Treaty entred into on their Behalf, and continue or renew Acts of Hoſtility againſt the Eng<g ref="char:EOLhyphen"/>liſh, in ſuch Caſe the ſaid <hi>Penobſcot</hi> Tribe ſhall join their young Men with the Engliſh, in reducing them to Reaſon.</p>
                            <p>
-                              <pb n="9" facs="tcp:007216_0029_102B3EC1ACF14B78"/>
+                              <pb n="9" facs="unknown:007216_0029_102B3EC1ACF14B78"/>
 In the next Place, We the aforenamed Delegates Do Promiſe and Engage with the Honourable JOHN WENTWORTH, <abbr>Eſq</abbr>; as He is Lieut. Go<g ref="char:EOLhyphen"/>vernour and Commander in Chief of His Majeſty's Province of <hi>New-Hampſhire,</hi> and with the Governours and Commander in Chief of the ſaid Province for the Time being, that We and the Tribes we are deputed from, will hence<g ref="char:EOLhyphen"/>forth ceaſe and forbear all Acts of Hoſtihty, Injuries and Diſcords towards all the Subjects of His Majeſty King GEORGE, within the ſaid Province. And we do underſtand, &amp; take it that the ſaid Government of <hi>New-Hampſhire,</hi> is alſo Included and Comprehended in all and every the Articles aforegoing excepting that reſpecting the regulating the Trade with us.</p>
                            <p>And further We the aforementioned Delegates, Do Promiſe &amp; Engage with the Hon. LAURANCE ARMSTRONG, <abbr>Eſq</abbr>; Lieutenant Governour &amp; Commander in Chief of His Majeſty's Province of <hi>Nova-Scotia</hi> or <hi>L'Acadie,</hi> to live in Peace with His Majeſty's good Subjects, and their Dependants in that Government, according to the Articles agreed on with Major PAUL MASCARENE, Com<g ref="char:EOLhyphen"/>miſſioned for that Purpoſe, and further to be Ratified as mentioned, in the ſaid Articles.</p>
                            <p>That this preſent Treaty ſhall be accepted, Ratified and Confirmed in a public and ſolemn Manner, by the Chiefs of the ſeveral Eaſtern Tribes of In<g ref="char:EOLhyphen"/>dians included therein, at <hi>Falmouth</hi> in <hi>Caſco-Bay</hi> ſome Time in the Month of <hi>May</hi> next. <hi>In Teſtimony</hi> whereof we have Signed theſe Preſent, and affixed our Seals. Dated at the Council Chamber in <hi>Boſton</hi> in <hi>New-England,</hi> this Fifteenth Day of <hi>December, Anno Domini,</hi> One Thouſand Seven Hundred and Twenty five, Annoque Regni Regis GEORGIJ, Magnae, Britanniae &amp;c. Duodecimo.</p>
@@ -1647,7 +1647,7 @@ In the next Place, We the aforenamed Delegates Do Promiſe and Engage with the H
                               </signed>
                            </closer>
                            <postscript>
-                              <pb n="10" facs="tcp:007216_0030_102B3EC4560E0AB8"/>
+                              <pb n="10" facs="unknown:007216_0030_102B3EC4560E0AB8"/>
                               <p>Done in the Preſence of the Great and General Court or Aſſembly of the Province of the <hi>Maſſachuſetts-Bay</hi> aforeſaid, being firſt read diſtinctly, and In<g ref="char:EOLhyphen"/>terpreted by Capt. <hi>John Gyles,</hi> Capt. <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                                        <desc>•</desc>
                                     </gap> 
@@ -1711,7 +1711,7 @@ In the next Place, We the aforenamed Delegates Do Promiſe and Engage with the H
                   <p>We ſhall anſwer your Honour to Morrow, if you will give us the Liberty of conſidering of it to Night.</p>
                </sp>
                <sp>
-                  <pb n="11" facs="tcp:007216_0031_102B23789A928938"/>
+                  <pb n="11" facs="unknown:007216_0031_102B23789A928938"/>
                   <speaker>Lt. Gov.</speaker>
                   <p>I would now have you hear the other Part, which I have Signed, becauſe you will not be able to make your Anſwer ſo fully without it.</p>
                   <p>The Inſtrument His Honour Signed on the Part of the <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1785,7 +1785,7 @@ In the next Place, We the aforenamed Delegates Do Promiſe and Engage with the H
                                  <desc>•</desc>
                               </gap>ds belong to the Engliſh, in or<g ref="char:EOLhyphen"/>der to the effectual Prevention of any Contentions or Miſunderſtanding on that Head for the future.</p>
                            <p>
-                              <pb n="12" facs="tcp:007216_0032_102B3EC62ABE0FF8"/>
+                              <pb n="12" facs="unknown:007216_0032_102B3EC62ABE0FF8"/>
 That Commerce and Trade ſhall be carried on between the Engliſh and Indians according to ſuch Directions as ſhall be agreed on by His Majeſty's Government of this Province.</p>
                            <p>That no private Revenge ſhall be taken by the Engliſh, but in Caſe any Perſon ſhall preſume ſo to do, upon Complaint and Proof thereof, Juſtice ſhall be done the Perſon aggrieved.</p>
                            <closer>
@@ -1873,7 +1873,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                </q>
             </div>
             <div type="days_proceedings">
-               <pb n="13" facs="tcp:007216_0033_102B3EC7F5E4A950"/>
+               <pb n="13" facs="unknown:007216_0033_102B3EC7F5E4A950"/>
                <head>
                   <hi>Thurſday, July</hi> 20. 1727.</head>
                <p>PRESENT as Before.</p>
@@ -1920,7 +1920,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                </sp>
             </div>
             <div type="days_proceedings">
-               <pb n="14" facs="tcp:007216_0034_102B3ECAD2609700"/>
+               <pb n="14" facs="unknown:007216_0034_102B3ECAD2609700"/>
                <head>
                   <hi>Friday, July 21ſt.</hi> 1727.</head>
                <p>PRESENT as Before.</p>
@@ -2032,7 +2032,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                   </hi> Tribe aforenamed, who were not pre<g ref="char:EOLhyphen"/>ſent at the Conference the laſt Year.</p>
             </div>
             <div type="days_proceedings">
-               <pb n="15" facs="tcp:007216_0035_102B3ECC9F52A570"/>
+               <pb n="15" facs="unknown:007216_0035_102B3ECC9F52A570"/>
                <head>
                   <hi>Tueſday, July 25th.</hi> 1727.</head>
                <div type="morning_proceedings">
@@ -2142,7 +2142,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                         </gap> I don't give much Order to that Story, yet I think it is a proper Occaſion to propoſe to you an Additional Article to the late Treaty, in order to deter that Tribe or any other Indians from violating the ſame, ſo happily made by Us and the ſe<g ref="char:EOLhyphen"/>veral Tribes of Indians who are Parties thereto (the due Obſervance of which being ſo much to the common Tranquility and Happineſs of all concerned) that upon any Hoſtility done or offered to be done by any Indians, the Tribes who have entered into, and Ratified the Treaty, ſhall furniſh and ſupply <hi>fifty</hi> Indians with a Captain of their own, and the Engliſh <hi>two Hundred and fifty,</hi> and ſo in Proportion a leſſer or greater Number as the Occaſion ſhall require, both the Engliſh and Indians to be paid and ſubſiſted by the Engliſh Govern<g ref="char:EOLhyphen"/>ment, and under the Conduct and Command of ſuch a general Officer as the Engliſh Governour may judge proper, to purſue and reduce ſuch refractory Indians by Sea or Land, to live peaceably and quietly with their Neighbours, which by the Bleſſing of GOD, may prove an effectual Method to render us formidable to our Enemies, and thereby happily ſecure and perpetuate the Peace to Us, and to Our Poſterity; and if any other Tribes of Indians ſhall make War upon any of the Tribes now entred into this Peace, in ſuch Caſe the Engliſh ſhall aſſiſt them at their Coſt and Charge with the like Proportion of Men as may be neceſſary. This is all I have now to ſay, and if you will go out and conſider of it, and give me an Anſwer to it, I ſhall be ready to hear you on that or any other Affair you may have to offer.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:007216_0036_102B3ECE5AA80D08"/>
+                     <pb n="16" facs="unknown:007216_0036_102B3ECE5AA80D08"/>
                      <speaker>Auyaummowett.</speaker>
                      <p>I am very thankful I have this Opportunity of ſeeing your Honour, and that we do ſee the Faces of one another in Health, and that we have ſo good an Underſtanding one with another, and that there may be no<g ref="char:EOLhyphen"/>thing taken amiſs, for we have heard nothing but what is <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -2247,7 +2247,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                            <gap reason="illegible" resp="#PDCC" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap>,</hi> for therein they very much Da<g ref="char:EOLhyphen"/>mage
-<pb n="17" facs="tcp:007216_0037_102B3ED0C65B3668"/>us, and take our Game from us, which we expect to get when we go a Hunting, but may otherwiſe be wronged herein, if Care be not taken effectu<g ref="char:EOLhyphen"/>ally to prevent thoſe Indians, and their coming among us may breed Miſunder<g ref="char:EOLhyphen"/>ſtanding, and be of ill Conſequence.</p>
+<pb n="17" facs="unknown:007216_0037_102B3ED0C65B3668"/>us, and take our Game from us, which we expect to get when we go a Hunting, but may otherwiſe be wronged herein, if Care be not taken effectu<g ref="char:EOLhyphen"/>ally to prevent thoſe Indians, and their coming among us may breed Miſunder<g ref="char:EOLhyphen"/>ſtanding, and be of ill Conſequence.</p>
                   </sp>
                   <sp>
                      <speaker>Lt. Gov.</speaker>
@@ -2349,7 +2349,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
 <note place="margin">* Pag. 12.</note> reſpecting Trade, was read and interpreted, which is in the Words following, <hi>Viz.</hi>
                      </p>
                      <q>
-                        <pb n="18" facs="tcp:007216_0038_102B3ED2E0DE0C18"/>
+                        <pb n="18" facs="unknown:007216_0038_102B3ED2E0DE0C18"/>
                         <p>While the Articles were in R<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>ling immediately after the Article reſpecting Trade. The Indians by their Speaker <hi>Loron,</hi> acquainted the Lieutenant Governour that they had been told the Prices of Goods would be raiſed when the Ratification was over: The Lieutenant Governour anſwered them, that they might be aſſured that the Goods al<g ref="char:EOLhyphen"/>ways were, and ſtill ſhould be bought with ready Money, and that the Government would not make any New Advance on their Goods, and for a Proof of it they would always be ſenſible and find that the Government would ſupply them cheaper than any other People whatſoever; that they are acquainted with the Nature of Markets, that they are ſometimes higher and ſometimes lower.</p>
@@ -2421,7 +2421,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                      <p>You ſhall be ſupplied.</p>
                   </sp>
                   <sp>
-                     <pb n="19" facs="tcp:007216_0039_102B3ED47B4C11A8"/>
+                     <pb n="19" facs="unknown:007216_0039_102B3ED47B4C11A8"/>
                      <speaker>Auyaummowett.</speaker>
                      <p>I ſpeak for the Indians at <hi>Pejepſcot</hi> and <hi>Ammereſcogin,</hi> we have formerly had Experience of Capt. <hi>Gyles,</hi> his good and faithful Services, we de<g ref="char:EOLhyphen"/>ſire he may be appointed Truck Maſter at <hi>Pejepſcot.</hi>
                      </p>
@@ -2484,7 +2484,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                   <p>The following Article is Unanimouſly and reciprocally agreed upon, for the more effectual Preſervation of the Peace, <hi>That if any Hoſtility ſhall be committed or offered to be committed by any Indians on any of the Engliſh Subjects, The Tribes who have entered into, and Ratified the Treaty, ſhall furniſh and ſupply</hi> Fifty Indians <hi>with a Captain of their own, and the Engliſh</hi> Two Hundred and Fifty, <hi>and ſo in Proportion a greater or leſſer Number as the Occaſion ſhall require; The Forces to be paid and ſubſiſted by the</hi> Engliſh, <hi>and under the Conduct of ſuch a General Officer as the</hi> Engliſh Governour <hi>may judge proper, to purſue ſuch refractory</hi> Indians <hi>either by Sea or Land, and compel them to live Peaceably and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>uietly with their Neighbours; And if any other Tribes of</hi> Indians, <hi>ſhall make War upon any of the Tribes now entered into the Peace, in ſuch Caſe, the</hi> Engliſh <hi>ſhall aſſiſt them at their own Coſt and Charge, with the like Proportion of Men as may be neceſſary.</hi> DONE at the Conference at <hi>Caſco-Bay,</hi> this Twenty-fifth Day of <hi>July,</hi> in the Thirteenth Year of the Reign of Our
-<pb n="20" facs="tcp:007216_0040_102B3ED6D349ED60"/>Sovereign Lord King GEORGE, <hi>Ann<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="20" facs="unknown:007216_0040_102B3ED6D349ED60"/>Sovereign Lord King GEORGE, <hi>Ann<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -2560,7 +2560,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                      <p>We don't ſpeak this out of Diſpleaſure, but only to inform your Honour that we have been thus impoſed on, and that a Redreſs may be had.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:007216_0041_102B3ED949C3D508"/>
+                     <pb n="21" facs="unknown:007216_0041_102B3ED949C3D508"/>
                      <speaker>Lt. Gov.</speaker>
                      <p>I don't at all blame you for telling me your Grievances, though I am ſorry you have Occaſion for it; you do very well in telling me of it; and I would always have you do ſo, as often as you have Occaſtion. As to what you ſay, reſpecting the Stores being ſhot up at <hi>St. Gorg<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
@@ -2620,7 +2620,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                   <p>I am acquainted of Five Captives at <hi>Arr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>,</hi> there are ſome that are Married, and I can't ſay any Thing as to them; there is one
-<pb n="22" facs="tcp:007216_0042_102B3EDB93FAB348"/>Woman at <hi>St. <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="22" facs="unknown:007216_0042_102B3EDB93FAB348"/>Woman at <hi>St. <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>,</hi> taken at <hi>North <gap reason="illegible" resp="#PDCC" extent="1 span">
                            <desc>〈…〉</desc>
@@ -2785,7 +2785,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                      </hi> you promiſed me to make what Diſcovery you could to bring back the Perſons taken, if poſſible, or at leaſt that you would give me the Names of the Indians that committed that Action, and what Tribes they belong'd to.</p>
                </sp>
                <sp>
-                  <pb n="23" facs="tcp:007216_0043_102B237653695088"/>
+                  <pb n="23" facs="unknown:007216_0043_102B237653695088"/>
                   <speaker>Quineis;e.</speaker>
                   <p>The Indians Names are, <hi>Waubaway, Paucaunaump<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -2875,7 +2875,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                <sp>
                   <speaker>Lt. Gov.</speaker>
                   <p>I had all the Reaſon in Juſtice to expect that I ſhould have had all the Engliſh Captives delivered up at the Treaty, as I have delivered up the Indian Captives to you, and I ſuppoſe if you had been ſo ſenſible of the Nature of this Affair before, as you are now, you would have done it; but I ſtill ex<g ref="char:EOLhyphen"/>pect that your Chief AUYAUMMOWETT does his utmoſt Endeavour to
-<pb n="24" facs="tcp:007216_0044_102B3EDEF4FEC1D8"/>have the Engliſh Captives reſtored according to his repeated Promiſes; and though I am not obliged by the Articles of the Treaty to do any Thing here<g ref="char:EOLhyphen"/>in, yet for your Encouragement to bring in and deliver up all the Engliſh Captives into the Hands of the Government at <hi>Boſton,</hi> I promiſe you that you ſhall have reaſonable Satisfaction for your Time and Trouble in Travelling backwards and forwards in compleating this Matter; and further for your Encouragement, I now promiſe in the Name of the Government, That upon your delivering up all the Engliſh Captives as aforeſaid, that you ſhall have three Indian Captives now in this Province delivered to you, who were ſold away by the Captors, and though they muſt be purchaſed of their Maſters, yet I will engage they ſhall be delivered up upon the reſtoring the Engliſh Captives as aforeſaid.</p>
+<pb n="24" facs="unknown:007216_0044_102B3EDEF4FEC1D8"/>have the Engliſh Captives reſtored according to his repeated Promiſes; and though I am not obliged by the Articles of the Treaty to do any Thing here<g ref="char:EOLhyphen"/>in, yet for your Encouragement to bring in and deliver up all the Engliſh Captives into the Hands of the Government at <hi>Boſton,</hi> I promiſe you that you ſhall have reaſonable Satisfaction for your Time and Trouble in Travelling backwards and forwards in compleating this Matter; and further for your Encouragement, I now promiſe in the Name of the Government, That upon your delivering up all the Engliſh Captives as aforeſaid, that you ſhall have three Indian Captives now in this Province delivered to you, who were ſold away by the Captors, and though they muſt be purchaſed of their Maſters, yet I will engage they ſhall be delivered up upon the reſtoring the Engliſh Captives as aforeſaid.</p>
                </sp>
                <sp>
                   <speaker>
@@ -2920,7 +2920,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                </sp>
             </div>
             <div type="days_proceedings">
-               <pb n="25" facs="tcp:007216_0045_102B3EE170207EE0"/>
+               <pb n="25" facs="unknown:007216_0045_102B3EE170207EE0"/>
                <head>Thurſday, Auguſt 27th. 1727.</head>
                <p>THE ſeveral Tribes being aſſembled in a publick Manner to receive of His Honour Lieutenant Governour DUMMER the Preſent from this Go<g ref="char:EOLhyphen"/>vernment; His Honour directed that the Committees Report on the Complaints of ſeveral Indians being miſuſed in Trade by Capt. <hi>
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -3221,7 +3221,7 @@ That Commerce and Trade ſhall be carried on between the Engliſh and Indians ac
                      <desc>•</desc>
                   </gap>ten.</p>
                <p>
-                  <pb n="26" facs="tcp:007216_0046_102B3EE4E26924A0"/>
+                  <pb n="26" facs="unknown:007216_0046_102B3EE4E26924A0"/>
 His Honour then aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ed the ſaid Capt. <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -3272,7 +3272,7 @@ His Honour then aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>
                </p>
                <p>
-                  <pb n="27" facs="tcp:007216_0047_102B3EE4E26924A0"/>
+                  <pb n="27" facs="unknown:007216_0047_102B3EE4E26924A0"/>
 I Have therefore thought fit with the Advice of His Majeſty's Council, to <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> this Proclamation. That ſo all Perſons within this Government may be duly informed of the ſame; And I do hereby ſtrictly Command and Require all His Majesty's good Subjects to live in Peace and Amity with all the <gap reason="illegible" resp="#PDCC" extent="1 word">
